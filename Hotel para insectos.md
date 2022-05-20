@@ -22,4 +22,4 @@ Como ya he mencionado, este tipo de construcciones son bastante personalizables,
 
 Para atraer a los insectos y darle ese toque más natural al hotel, hemos colocado en el interior algunas cosas que se pueden encontrar en la naturaleza como hojas o piñas.
 
-![kkk]{https://github.com/Mikeey666/Proyecto-integral/blob/770c0ddfd8346a2c43a5be18a6cb11e3a7b2880d/proyecto%20hotel.jpg}
+![kkk](https://github.com/Mikeey666/Proyecto-integral/blob/770c0ddfd8346a2c43a5be18a6cb11e3a7b2880d/proyecto%20hotel.jpg)
